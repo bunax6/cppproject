@@ -1,0 +1,5 @@
+class sample
+{
+	public:
+	sample();
+};
