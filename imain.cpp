@@ -1,6 +1,7 @@
 #include<iostream>
 using namespace std;
 #include "sample.h"
+#include "other/myother.h"
 
 int main()
 {
@@ -9,5 +10,7 @@ int main()
 	sample s2;
 	s2=s1;
 	s2.show();
+	other o;
+	o.dis();
 }
 
