@@ -4,8 +4,10 @@ using namespace std;
 
 int main()
 {
-	sample s;
-	cout<<"first line"<<endl;
-	cout<<"hello"<<endl;
+	sample s(19);
+	sample s1 =s;
+	sample s2;
+	s2=s1;
+	s2.show();
 }
 
