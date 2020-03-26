@@ -25,4 +25,5 @@ void sample::show()
 {
 	cout<<"The value of num is : "<<num<<endl;
 	cout<<"The value of num is : "<<num<<endl;
+	cout<<"This is extra"<endl;
 }
