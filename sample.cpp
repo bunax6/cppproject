@@ -4,6 +4,7 @@ using namespace std;
 sample::sample()
 {
 	cout<<"Base constructor"<<endl;
+	cout<<"Base constructor1"<<endl;
 }
 
 sample::sample(int s) : num(s){}
