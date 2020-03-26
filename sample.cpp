@@ -24,4 +24,5 @@ sample& sample::operator =(const sample &ptr)
 void sample::show()
 {
 	cout<<"The value of num is : "<<num<<endl;
+	cout<<"The value of num is : "<<num<<endl;
 }
