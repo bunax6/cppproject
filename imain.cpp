@@ -12,5 +12,6 @@ int main()
 	s2.show();
 	other o;
 	o.dis();
+	return 0;
 }
 
